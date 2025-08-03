@@ -1,4 +1,3 @@
-
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -196,14 +195,15 @@
   <!-- CTA -->
   <section class="cta">
     <h2>Yuk, Mulai Desain Kaosmu Hari Ini!</h2>
-    <a href="https://wa.me/6281234567890" class="btn">Hubungi via WhatsApp</a>
+    <a href="https://wa.me/6281287743371" class="btn">Hubungi via WhatsApp</a>
   </section>
 
   <!-- Footer -->
   <footer>
     © 2025 Cahaya Sablon. All rights reserved. <br>
-    IG: <a href="https://instagram.com/cahayasablon" target="_blank">@cahayasablon</a>
+    IG: <a href="https://instagram.com/ahaz.Papilaya" target="_blank">@cahayasablon</a>
   </footer>
 
 </body>
 </html>
+
